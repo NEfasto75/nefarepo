@@ -1,0 +1,42 @@
+  .topnav {
+    overflow: hidden;
+    background-color: rgb(255, 44, 44);
+    width: 98.05%;
+    top: 0px;
+    margin: 0px;
+    padding: 10px;
+    position: fixed;
+    
+  }
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 10px;
+    text-decoration: none;
+    font-size: 27px;
+  }
+  .logo {
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 5px red;
+    border: 1px solid;
+    font-family: tangerine, Arial, sans-serif;
+    margin-top: 15px;
+    width: 98.80%;
+    height: 170px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Verde {
+    background-color: rgb(40, 110, 51);
+    padding:  0px;
+    height: 80px;
+    width: 100%;
+    margin: 0px;
+    
+  }
+  .Luigi {
+    text-align: center; font-size: 3rem;
+    border: 3px solid black;
+  }
